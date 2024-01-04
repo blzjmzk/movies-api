@@ -10,6 +10,14 @@ const courses = [
   { id: 3, name: "course 3" },
 ];
 
+function validateCourse(course) {
+  const schema = Joi.object({
+    name: Joi.string().min(3).required(),
+  });
+
+  return schema.validate(course);
+}
+
 app.get("/", (req, res) => {
   res.send("Hello World");
 }); //odpowiadamy na request wysyłając wiadomość
@@ -25,14 +33,7 @@ app.get("/api/courses/:id", (req, res) => {
 });
 
 app.post("/api/courses", (req, res) => {
-  const schema = Joi.object({
-    name: Joi.string().min(3).required(),
-  });
-
-  // Walidacja żądania
-  const { error } = schema.validate(req.body);
-
-  // Jeśli wystąpił błąd walidacji, zwróć błąd 400 i przekaż informacje o błędzie
+  const { error } = validateCourse(req.body);
   if (error) {
     return res.status(400).send(error.details[0].message);
   }
@@ -52,10 +53,7 @@ app.put("/api/courses/:id", (req, res) => {
   if (!course) res.status(404).send("The course with a given ID was not found");
 
   // Walidacja żądania, jeśli invalid zwracamy błąd
-  const schema = Joi.object({
-    name: Joi.string().min(3).required(),
-  });
-  const { error } = schema.validate(req.body);
+  const { error } = validateCourse(req.body);
   if (error) {
     return res.status(400).send(error.details[0].message);
   }
