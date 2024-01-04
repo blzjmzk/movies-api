@@ -1,3 +1,4 @@
+const Joi = require("joi");
 const express = require("express");
 const app = express();
 
@@ -18,6 +19,18 @@ app.get("/api/courses", (req, res) => {
 });
 
 app.post("/api/courses", (req, res) => {
+  const schema = Joi.object({
+    name: Joi.string().min(3).required(),
+  });
+
+  // Walidacja żądania
+  const { error } = schema.validate(req.body);
+
+  // Jeśli wystąpił błąd walidacji, zwróć błąd 400 i przekaż informacje o błędzie
+  if (error) {
+    return res.status(400).send(error.details[0].message);
+  }
+
   const course = {
     id: courses.length + 1,
     name: req.body.name,
