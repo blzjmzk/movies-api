@@ -1,8 +1,14 @@
 const Joi = require("joi");
 const express = require("express");
 const app = express();
+const logger = require("./logger");
+const authenticator = require("./authenticator");
 
 app.use(express.json()); //dodajemy middleware by parsowało json w req body
+
+app.use(logger);
+
+app.use(authenticator);
 
 const genres = [
   { id: 1, name: "Action" },
