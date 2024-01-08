@@ -1,3 +1,6 @@
+const config = require("config");
+const helmet = require("helmet");
+const morgan = require("morgan");
 const Joi = require("joi");
 const express = require("express");
 const app = express();
@@ -5,10 +8,18 @@ const logger = require("./logger");
 const authenticator = require("./authenticator");
 
 app.use(express.json()); //dodajemy middleware by parsowało json w req body
-
+app.use(helmet());
 app.use(logger);
-
 app.use(authenticator);
+
+//Configuration
+console.log("Application Name: " + config.get("name"));
+console.log("Mail Server: " + config.get("mail.host"));
+
+if (app.get("env") === "development") {
+  app.use(morgan("tiny"));
+  console.log("Morgan enabled...");
+}
 
 const genres = [
   { id: 1, name: "Action" },
