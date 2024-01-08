@@ -1,3 +1,5 @@
+const startupDebugger = require("debug")("app:startup");
+const dbDebugger = require("debug")("app:db");
 const config = require("config");
 const helmet = require("helmet");
 const morgan = require("morgan");
@@ -18,7 +20,7 @@ console.log("Mail Server: " + config.get("mail.host"));
 
 if (app.get("env") === "development") {
   app.use(morgan("tiny"));
-  console.log("Morgan enabled...");
+  startupDebugger("Morgan enabled...");
 }
 
 const genres = [
