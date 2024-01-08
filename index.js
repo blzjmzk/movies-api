@@ -9,6 +9,9 @@ const app = express();
 const logger = require("./logger");
 const authenticator = require("./authenticator");
 
+app.set("view engine", "pug");
+app.set("views", "./views");
+
 app.use(express.json()); //dodajemy middleware by parsowało json w req body
 app.use(helmet());
 app.use(logger);
@@ -38,8 +41,8 @@ function validateGenre(genre) {
 }
 
 app.get("/", (req, res) => {
-  res.send("Hello World");
-}); //odpowiadamy na request wysyłając wiadomość
+  res.render("index", { title: "My Express App", message: " Hello" });
+});
 
 app.get("/api/genres", (req, res) => {
   res.send(genres);
