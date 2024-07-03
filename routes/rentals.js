@@ -4,13 +4,14 @@ const mongoose = require("mongoose");
 const { Rental, validate } = require("../models/rental");
 const { Movie } = require("../models/movie");
 const { Customer } = require("../models/customer");
+const auth = require("../middleware/auth");
 
 router.get("/", async (req, res) => {
   const rentals = await Rental.find().sort("-dateOut");
   res.send(rentals);
 });
 
-router.post("/", async (req, res) => {
+router.post("/", auth, async (req, res) => {
   const { error } = validate(req.body);
   if (error) {
     console.error("Validation error:", error.details[0].message);
