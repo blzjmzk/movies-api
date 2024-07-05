@@ -4,6 +4,7 @@ const { Genre, validate } = require("../models/genre");
 const auth = require("../middleware/auth");
 const admin = require("../middleware/admin");
 const mongoose = require("mongoose");
+const asyncMiddleware = require("../middleware/async");
 
 router.get("/", async (req, res) => {
   const genres = await Genre.find().sort("name");

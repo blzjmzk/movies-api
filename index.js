@@ -11,6 +11,7 @@ Joi.objectId = require("joi-objectid")(Joi);
 const customers = require("./routes/customers");
 const home = require("./routes/home");
 const mongoose = require("mongoose");
+const error = require("./middleware/error");
 
 if (!config.get("jwtPrivateKey")) {
   console.error("FATAL ERROR: jwtPrivateKey is not defined");
@@ -30,6 +31,7 @@ app.use("/api/rentals", rentals);
 app.use("/api/users", users);
 app.use("/api/auth", auth);
 app.use("/", home);
+app.use(error);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Listening on port ${port}`));
