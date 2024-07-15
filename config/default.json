@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "unsecurekey"
+  "jwtPrivateKey": "unsecurekey",
+  "db": "mongodb://localhost/movies-api"
 }
