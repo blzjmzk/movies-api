@@ -3,6 +3,7 @@ const router = express.Router();
 const { Genre, validate } = require("../models/genre");
 const auth = require("../middleware/auth");
 const admin = require("../middleware/admin");
+const validateObjectId = require("../middleware/validateObjectId");
 const mongoose = require("mongoose");
 
 router.get("/", async (req, res) => {
@@ -10,7 +11,9 @@ router.get("/", async (req, res) => {
   res.send(genres);
 });
 
-router.get("/:id", async (req, res) => {
+router.get("/:id", validateObjectId, async (req, res) => {
+  //sprawdzamy czy id w params /id jest valid w middleware
+
   const genre = await Genre.findById(req.params.id);
 
   if (!genre)
