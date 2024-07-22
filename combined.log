@@ -144,3 +144,343 @@
 {"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-16T13:32:19.542Z"}
 {"level":"info","message":"Listening on port 3000","timestamp":"2024-07-16T13:33:12.450Z"}
 {"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-16T13:33:12.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:41:07.566Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:41:07.685Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:41:46.196Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:41:46.203Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:41:46.224Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:41:46.291Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:42:12.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:42:12.506Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:42:12.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:42:12.561Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:46:16.393Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:46:16.400Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:46:16.423Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:46:16.448Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:46:54.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:46:54.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:46:54.202Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:46:54.215Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:53:21.130Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:53:21.151Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:53:21.182Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:53:21.186Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:54:28.673Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:54:28.680Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:54:28.700Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:54:28.737Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:54:44.681Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:54:44.687Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:54:44.708Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:54:44.738Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:55:17.713Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:55:17.731Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:55:17.765Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:55:17.781Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:56:28.031Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:56:28.050Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:56:28.077Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:56:28.092Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:59:17.000Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:59:17.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:59:17.043Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:59:17.060Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:59:22.382Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:59:22.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:59:22.410Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:59:22.436Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:59:44.377Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T13:59:44.384Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:59:44.407Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T13:59:44.435Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:01:12.927Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:01:12.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:01:12.956Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:01:12.982Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:01:31.078Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:01:31.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:01:31.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:01:31.137Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:01:35.093Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:01:35.138Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:01:35.214Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:01:35.240Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:10:49.716Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:10:49.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:10:49.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:10:49.788Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:11:53.500Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:11:53.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:11:53.550Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:11:53.556Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:12:23.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:12:23.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:12:23.794Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:12:23.796Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:13:01.584Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:13:01.591Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:13:01.615Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:13:01.644Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:14:25.753Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:14:25.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:14:25.799Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:14:25.805Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:15:11.243Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:15:11.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:15:11.281Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:15:11.298Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:16:44.570Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:16:44.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:16:44.602Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:16:44.622Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:17:24.471Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:17:24.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:17:24.515Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:17:24.544Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:17:40.942Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:17:40.948Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:17:40.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:17:41.003Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:17:57.192Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:17:57.199Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:17:57.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:17:57.243Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:18:46.845Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:18:46.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:18:46.892Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:18:46.904Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:19:41.907Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:19:41.929Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:19:41.958Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:19:41.970Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:20:30.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:20:30.295Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:20:30.324Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:20:30.331Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:21:02.508Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:21:02.517Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:21:02.537Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:21:02.565Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:21:19.618Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:21:19.625Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:21:19.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:21:19.672Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:21:31.853Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:21:31.874Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:21:31.904Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:21:31.909Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:22:05.225Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:22:05.244Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:22:05.274Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:22:05.276Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:22:47.142Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:22:47.149Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:22:47.180Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:22:47.195Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:24:28.710Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:24:28.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:24:28.764Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:24:28.786Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:24:45.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:24:45.795Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:24:45.801Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:24:45.842Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:25:06.570Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:25:06.578Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:25:06.600Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:25:06.627Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:26:03.524Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:26:03.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:26:03.573Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:26:03.575Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:27:05.416Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:27:05.434Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:27:05.460Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:27:05.469Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:27:33.230Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:27:33.237Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:27:33.258Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:27:33.285Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:28:42.576Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:28:42.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:28:42.614Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:28:42.630Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:29:49.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:29:49.207Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:29:49.264Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:29:49.284Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:30:42.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:30:42.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:30:42.689Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:30:42.694Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:32:25.175Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:32:25.183Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:32:25.216Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:32:25.263Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:33:12.864Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:33:12.882Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:33:12.912Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:33:12.912Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:33:37.808Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:33:37.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:33:37.841Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:33:37.862Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:33:55.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:33:55.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:33:56.033Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:33:56.039Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:34:06.199Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:34:06.224Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:34:06.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:34:06.258Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:36:15.140Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:36:15.147Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:36:15.166Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:36:15.199Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:36:19.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:36:19.963Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:36:20.012Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:36:20.038Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:31.583Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:31.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:31.609Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:31.635Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:34.853Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:34.897Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:34.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:34.977Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:40.323Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:40.383Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:40.429Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:40.454Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:45.268Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:45.275Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:45.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:45.324Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:49.951Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:37:49.965Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:50.001Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:37:50.037Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:38:37.732Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:38:37.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:38:37.758Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:38:37.783Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:02.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:02.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:02.642Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:02.646Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:12.548Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:12.575Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:21.171Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:21.193Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:21.217Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:21.233Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:25.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:25.338Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:29.476Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:29.496Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:29.521Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:29.528Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:31.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:31.839Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:53.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:53.077Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:40:53.104Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:40:53.109Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:42:35.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:42:35.965Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:42:36.002Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:42:36.002Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:43:56.312Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:43:56.320Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:43:56.367Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:43:56.384Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:03.376Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:03.428Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:03.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:03.528Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:08.813Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:08.821Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:08.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:08.872Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:12.895Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:12.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:12.942Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:12.953Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:16.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:16.551Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:16.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:16.655Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:24.290Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:24.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:24.324Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:24.348Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:28.406Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:28.426Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:28.452Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:28.461Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:33.621Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:33.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:33.649Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:33.677Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:36.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:37.004Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:44:37.023Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:44:37.037Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:29.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:29.604Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:29.635Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:29.669Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:32.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:32.501Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:32.560Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:32.588Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:36.490Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:36.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:36.536Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:36.540Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:44.336Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:45:44.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:44.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:45:44.392Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:46:10.937Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:46:10.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:46:10.961Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:46:10.995Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:46:35.776Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:46:35.800Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:46:35.834Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:46:35.880Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:47:21.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:47:21.963Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:47:34.253Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:47:34.299Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:47:59.445Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:47:59.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:47:59.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:47:59.499Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:48:43.865Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:48:43.872Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:48:43.894Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:48:43.921Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:50:14.496Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:50:14.503Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:50:14.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:50:14.555Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:50:22.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:50:22.970Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:50:22.994Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:50:23.006Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:56:19.456Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:56:19.463Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:56:19.485Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:56:19.509Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:56:22.327Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:56:22.364Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-17T14:56:22.372Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-17T14:56:22.424Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-22T13:39:27.069Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2024-07-22T13:39:27.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-22T13:39:27.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/movies-api-tests...","timestamp":"2024-07-22T13:39:27.188Z"}

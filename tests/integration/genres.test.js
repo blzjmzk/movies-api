@@ -1,6 +1,7 @@
 const request = require("supertest");
 const { Genre } = require("../../models/genre");
 const { User } = require("../../models/user");
+const mongoose = require("mongoose");
 
 let server;
 
@@ -9,21 +10,23 @@ describe("/api/genres", () => {
     server = require("../../index");
   });
   afterEach(async () => {
-    server.close();
     //cleanup (inaczej będziemy dodawać wiele mockowych danych)
+    await server.close();
     await Genre.deleteMany({});
   });
+
   describe("GET", () => {
     it("should return all genres", async () => {
+      const genres = [{ name: "genre1" }, { name: "genre2" }];
       //dodajemy wiele gatunków do bazy
-      await Genre.collection.insertMany([
-        { name: "genre1" },
-        { name: "genre2" },
-      ]);
+      await Genre.collection.insertMany(genres);
+
       const res = await request(server).get("/api/genres");
+
       expect(res.status).toBe(200);
-      // expect(res.body.length).toBe(2);
+      expect(res.body.length).toBe(2);
       expect(res.body.some((g) => g.name === "genre1")).toBeTruthy();
+      expect(res.body.some((g) => g.name === "genre2")).toBeTruthy();
     });
   });
   describe("GET /:id", () => {
@@ -39,6 +42,12 @@ describe("/api/genres", () => {
     });
     it("should return 404 if invalid id is passed", async () => {
       const res = await request(server).get("/api/genres/1");
+      expect(res.status).toBe(404);
+    });
+    it("should return 404 if no genre with the given id exists", async () => {
+      const id = mongoose.Types.ObjectId();
+      const res = await request(server).get("/api/genres/" + id);
+
       expect(res.status).toBe(404);
     });
   });
