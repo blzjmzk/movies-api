@@ -7,15 +7,12 @@ const logger = createLogger({
   level: "info",
   format: format.combine(
     format.timestamp(),
-    format.errors({ stack: true }), // Log the stack trace
+    format.errors({ stack: true }),
     format.json()
   ),
   transports: [
     new transports.Console({
-      format: format.combine(
-        format.colorize(),
-        format.simple() // Simple format for console
-      ),
+      format: format.combine(format.colorize(), format.simple()),
     }),
     new transports.File({ filename: "combined.log" }),
     new transports.File({ filename: "error.log", level: "error" }),
@@ -31,26 +28,16 @@ const logger = createLogger({
   ],
   exceptionHandlers: [
     new transports.Console({
-      format: format.combine(
-        format.colorize(),
-        format.simple() // Simple format for console
-      ),
+      format: format.combine(format.colorize(), format.simple()),
     }),
     new transports.File({ filename: "uncaughtExceptions.log" }),
   ],
   rejectionHandlers: [
     new transports.Console({
-      format: format.combine(
-        format.colorize(),
-        format.simple() // Simple format for console
-      ),
+      format: format.combine(format.colorize(), format.simple()),
     }),
     new transports.File({ filename: "unhandledRejections.log" }),
   ],
-});
-
-process.on("unhandledRejection", (ex) => {
-  throw ex; // This will be caught by the uncaughtException handler
 });
 
 module.exports = logger;

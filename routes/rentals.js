@@ -11,6 +11,7 @@ router.get("/", async (req, res) => {
   res.send(rentals);
 });
 
+//crating new rental
 router.post("/", auth, async (req, res) => {
   const { error } = validate(req.body);
   if (error) {

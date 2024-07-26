@@ -7,7 +7,7 @@ const validateObjectId = require("../middleware/validateObjectId");
 const mongoose = require("mongoose");
 
 router.get("/", async (req, res) => {
-  const genres = await Genre.find().sort("name");
+  const genres = await Genre.find().select("-__v").sort("name");
   res.send(genres);
 });
 
