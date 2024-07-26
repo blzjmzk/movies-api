@@ -5,4 +5,4 @@
 - Authorization and Authentication with JWT tokens
 - Logging Errors in db & files
 - Data validation with Joi
-- Tests with Jest
+- Tests with Jest and Supertest
